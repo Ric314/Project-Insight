@@ -1,0 +1,16 @@
+Project Tracker:
+•	Come Up with idea (drone swarm with ros and gazebo)
+•	Research drones and ros
+•	Install virtual box 
+•	Create VM with Ubuntu 20.04
+•	Install Ros Noetic and Gazebo 11 (debate between ros 1 and ros 2)
+•	Try to use drone model sjut_drone (failure wrong version of everything)
+•	Retry sjut_drone with ubuntu 18.04 Ros Melodic and Gazebo 9’
+•	Continue not working (model wont load catkin_make not making 
+•	In research for solutions and drone knowledge find MATLAB/Simulink solution
+•	Install MATLAB toolboxes (UAV, Aerospace and auxiliaries)
+•	Open up parrot Drone model and start working through block diagram
+•	Run different trajectories and different detections via camera sensors
+•	Attempt adding in second drone (failure MATLAB not designed for this)
+•	Found other options but for HW no time to get the pieces
+•	Little HW (thanks Amazon) able to develop camera with face tracking
