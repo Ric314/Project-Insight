@@ -1,0 +1,10 @@
+Required for MATLAB code
+-UAV Toolbox
+-Simulink
+-Aerospace Blockset
+-Signal Processing Blockset
+-Image Processing Blockset
+-Control Blockset
+
+To use the software make sure all relevant add ons are installed and open up the project.  Upon opening multiple windows will appear with the block diagram and the model.
+From there it is as simple as clicking run.  If you want to change the trajectory reference the commands block and the signal generator within.  The color checking happens in the image processing block in the Flight control system block.
